@@ -1,5 +1,5 @@
 import React from 'react';
-import heroImage from '../images/Frame_1.png'; // Adjust the path accordingly
+import heroImage from '../images/hero.jpg'; // Adjust the path accordingly
 
 const Hero = ({ onJoinClick }) => {
     return (
