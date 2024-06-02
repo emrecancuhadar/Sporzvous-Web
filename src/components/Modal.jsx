@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import qrcode from '../images/qrcode.png';
+import qrcode from '../images/qrcode.jpg';
 
 
 const Modal = ({ isOpen, onClose }) => {
