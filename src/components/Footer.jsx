@@ -29,10 +29,10 @@ const Footer = ({ onGetAppClick }) => {
                 </div>
                 <div className="mt-8 md:mt-0">
                     <div className="flex space-x-4">
-                        <a href="#" className="text-gray-500"><i className="fab fa-facebook-f"></i></a>
-                        <a href="#" className="text-gray-500"><i className="fab fa-twitter"></i></a>
-                        <a href="#" className="text-gray-500"><i className="fab fa-instagram"></i></a>
-                        <a href="#" className="text-gray-500"><i className="fab fa-linkedin-in"></i></a>
+                        <a href="#" className="text-gray-500"><i className="fab fa-facebook-f fa-lg"></i></a>
+                        <a href="#" className="text-gray-500"><i className="fab fa-twitter fa-lg"></i></a>
+                        <a href="#" className="text-gray-500"><i className="fab fa-instagram fa-lg"></i></a>
+                        <a href="#" className="text-gray-500"><i className="fab fa-linkedin-in fa-lg"></i></a>
                     </div>
                 </div>
             </div>

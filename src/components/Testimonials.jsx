@@ -9,7 +9,7 @@ const Testimonials = () => {
         { text: 'I love using this app. Very convenient to book courts for the weekends. Also, the notification about upcoming events is also a cool feature', author: 'Berk Şengül', img: m1 },
         { text: "Amazing app. It's a nice idea. I had badminton courts nearby but couldn't find players. The app helped me within 10 mins!", author: 'Emre Erol', img: m2 },
         { text: "Useful app. In the midst of nonsense app making and backup, Sporzvous is a comfortable one. It's here to stay. Need more speed. Kudos.", author: 'Çağan Özsır', img: m3 },
-        { text: "Struggling to find tailored sportsbuddy nearby? With Sportzvous, find and connect with sports enthusiasts nearby. Without wasting time, download Sporzvous and enjoy with others while doing sports!", author: 'Emrecan Çuhadar', img: m4 },
+        { text: "Struggling to find sportsbuddies nearby? With Sportzvous, find and connect with sports enthusiasts nearby. Without wasting time, download Sporzvous and enjoy with others while doing sports!", author: 'Emrecan Çuhadar', img: m4 },
     ];
 
     return (
